@@ -173,9 +173,9 @@ function App() {
                 />
               </div>
 
-              <p className="text-gray-400 text-base sm:text-lg leading-relaxed max-w-2xl">
-                Saya mahasiswa Sistem Informasi dan Asisten Teknisi yang aktif mencari peluang magang. Berfokus pada pengembangan sistem web, maintenance hardware/jaringan, perancangan UI/UX, serta publikasi media kreatif.
-              </p>
+            <p className="text-gray-400 text-base sm:text-lg leading-relaxed max-w-2xl">
+              Mahasiswa Sistem Informasi & Asisten Teknisi yang tertarik pada bidang Teknologi Informasi secara umum—mulai dari analisis & pengembangan sistem, IT support, hingga perancangan UI/UX dan media visual. Terbuka untuk kesempatan magang.
+            </p>
 
               {/* Skill Badges */}
               <div className="flex flex-wrap gap-2 justify-center md:justify-start pt-2">
